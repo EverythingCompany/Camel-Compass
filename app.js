@@ -49,7 +49,7 @@
       legal_affiliate_h: 'Advertising & Amazon affiliate disclosure',
       legal_affiliate_p: 'This site is monetized in exactly two ways: Google AdSense display ads, and the Amazon Associates program. As an Amazon Associate, CamelCompass earns from qualifying purchases — if you click an Amazon link on this site and buy something, we may receive a small commission at no extra cost to you. Ads are served by Google and may be personalized based on your consent choice; see Privacy & cookies below. Neither ads nor Amazon links ever influence our ratings, which are based on our own research and testing.',
       legal_privacy_h: 'Privacy & cookies',
-      legal_privacy_p: "We built this site to need as little of your data as possible. We don't run analytics, we don't use advertising or tracking cookies, and we never collect or store your location or IP address. The only things this site can store in your browser are:",
+      legal_privacy_p: "We built this site to need as little of your data as possible. We use Google Analytics to understand, in aggregate, how people use the site — it only runs after you accept the cookie notice below, and if you decline it isn't loaded at all. We never collect or store your precise location or IP address ourselves. Besides Analytics (only with consent), the only things this site can store in your browser are:",
       legal_privacy_li1: 'Your cookie-consent choice (accept/decline), so we don’t ask again on every visit.',
       legal_privacy_li2: 'Your chosen language, but only if you accepted the notice below.',
       legal_privacy_li3: 'On the "Recommended for you" page, the region you select — this stays in your browser and is never sent to us or to anyone else.',
@@ -58,7 +58,7 @@
       legal_disclaimer_p: 'Prices, plans, and features are based on publicly available information at the time of writing and can change at any time — always check the provider’s official site before buying. This content is general information, not professional, legal, or financial advice, and we are not responsible for decisions made based on it. All product names and trademarks belong to their respective owners.',
       legal_terms_h: 'Terms of use',
       legal_terms_p: 'You’re welcome to read and share this content. We ask that you don’t copy it wholesale onto another site without permission.',
-      cookie_text: 'We use a couple of small, strictly functional entries in your browser to remember your cookie choice and your language — nothing is tracked, and nothing is shared with anyone. See our Privacy & Legal page for details.',
+      cookie_text: 'We use a couple of small, functional entries in your browser to remember your cookie choice and your language, and — only if you accept — Google Analytics cookies to measure traffic in aggregate. Nothing is sold, and nothing beyond aggregate traffic stats is shared with anyone. See our Privacy & Legal page for details.',
       cookie_accept: 'Accept', cookie_decline: 'Decline',
       footer_desc: 'Independent hosting reviews and hand-picked tools for small businesses and freelancers.',
       footer_cat_title: 'Categories', footer_site_title: 'Site',
@@ -112,7 +112,7 @@
       legal_affiliate_h: 'Pubblicità e affiliazione Amazon',
       legal_affiliate_p: 'Questo sito si finanzia in due soli modi: gli annunci di Google AdSense e il programma Amazon Associates (affiliazione Amazon). In qualità di affiliato Amazon, CamelCompass riceve un guadagno dagli acquisti idonei: se clicchi su un link Amazon presente su questo sito e acquisti qualcosa, potremmo ricevere una piccola commissione, senza alcun costo aggiuntivo per te. Gli annunci sono forniti da Google e possono essere personalizzati in base alla tua scelta sui cookie; vedi Privacy e cookie qui sotto. Né gli annunci né i link Amazon influenzano mai le nostre valutazioni, basate sui nostri test e sulla nostra ricerca.',
       legal_privacy_h: 'Privacy e cookie',
-      legal_privacy_p: 'Abbiamo costruito questo sito per aver bisogno del minor numero possibile di tuoi dati. Non usiamo strumenti di analytics, non usiamo cookie pubblicitari o di tracciamento, e non raccogliamo né conserviamo mai la tua posizione o il tuo indirizzo IP. Le uniche cose che questo sito può salvare nel tuo browser sono:',
+      legal_privacy_p: "Abbiamo costruito questo sito per aver bisogno del minor numero possibile di tuoi dati. Usiamo Google Analytics per capire, in forma aggregata, come le persone usano il sito — parte solo dopo che accetti l'avviso sui cookie qui sotto, e se rifiuti non viene caricato affatto. Non raccogliamo né conserviamo mai noi stessi la tua posizione precisa o il tuo indirizzo IP. Oltre ad Analytics (solo con consenso), le uniche cose che questo sito può salvare nel tuo browser sono:",
       legal_privacy_li1: 'La tua scelta sul banner cookie (accetta/rifiuta), così non te la richiediamo a ogni visita.',
       legal_privacy_li2: 'La lingua che hai scelto, ma solo se hai accettato l’avviso qui sotto.',
       legal_privacy_li3: 'Nella pagina "Consigliato per te", la zona che selezioni — resta nel tuo browser e non viene mai inviata a noi né a nessun altro.',
@@ -121,7 +121,7 @@
       legal_disclaimer_p: 'Prezzi, piani e funzionalità sono basati su informazioni pubblicamente disponibili al momento della scrittura e possono cambiare in qualsiasi momento — verifica sempre il sito ufficiale del provider prima di acquistare. Questo contenuto è un’informazione generale, non una consulenza professionale, legale o finanziaria, e non siamo responsabili per decisioni prese sulla base di esso. Tutti i nomi di prodotto e i marchi appartengono ai rispettivi proprietari.',
       legal_terms_h: 'Termini di utilizzo',
       legal_terms_p: 'Sei libero di leggere e condividere questo contenuto. Ti chiediamo di non copiarlo integralmente su un altro sito senza permesso.',
-      cookie_text: 'Usiamo un paio di piccole voci strettamente funzionali nel tuo browser per ricordare la tua scelta sui cookie e la tua lingua — nulla viene tracciato, nulla viene condiviso con nessuno. Dettagli nella pagina Privacy e note legali.',
+      cookie_text: 'Usiamo un paio di piccole voci funzionali nel tuo browser per ricordare la tua scelta sui cookie e la tua lingua e, solo se accetti, i cookie di Google Analytics per misurare il traffico del sito in forma aggregata. Nulla viene venduto e nulla oltre alle statistiche di traffico aggregate viene condiviso con chiunque. Dettagli nella pagina Privacy e note legali.',
       cookie_accept: 'Accetta', cookie_decline: 'Rifiuta',
       footer_desc: 'Recensioni indipendenti sull’hosting e strumenti selezionati per piccole imprese e freelance.',
       footer_cat_title: 'Categorie', footer_site_title: 'Sito',
@@ -175,7 +175,7 @@
       legal_affiliate_h: 'Publicité et affiliation Amazon',
       legal_affiliate_p: "Ce site n'est monetisé que de deux façons : les publicités Google AdSense et le programme Amazon Associates (partenaires Amazon). En tant que partenaire Amazon, CamelCompass perçoit une rémunération sur les achats éligibles : si vous cliquez sur un lien Amazon présent sur ce site et achetez quelque chose, nous pouvons percevoir une petite commission, sans frais supplémentaires pour vous. Les publicités sont fournies par Google et peuvent être personnalisées selon votre choix de cookies ; voir Confidentialité et cookies ci-dessous. Ni les publicités ni les liens Amazon n'influencent nos notes, basées sur nos propres tests et recherches.",
       legal_privacy_h: 'Confidentialité et cookies',
-      legal_privacy_p: "Nous avons conçu ce site pour avoir besoin du moins de données possible sur vous. Nous n'utilisons pas d'outils d'analyse, pas de cookies publicitaires ou de suivi, et nous ne collectons ni ne conservons jamais votre position ou votre adresse IP. Les seules choses que ce site peut enregistrer dans votre navigateur sont :",
+      legal_privacy_p: "Nous avons conçu ce site pour avoir besoin du moins de données possible sur vous. Nous utilisons Google Analytics pour comprendre, de façon agrégée, comment les visiteurs utilisent le site — il ne se lance qu'après acceptation de l'avis sur les cookies ci-dessous, et s'il est refusé, il n'est pas chargé du tout. Nous ne collectons ni ne conservons jamais nous-mêmes votre position précise ou votre adresse IP. En dehors d'Analytics (uniquement avec consentement), les seules choses que ce site peut enregistrer dans votre navigateur sont :",
       legal_privacy_li1: "Votre choix concernant les cookies (accepter/refuser), pour ne pas vous le redemander à chaque visite.",
       legal_privacy_li2: "La langue que vous avez choisie, mais uniquement si vous avez accepté l'avis ci-dessous.",
       legal_privacy_li3: "Sur la page « Recommandé pour vous », la région que vous sélectionnez — elle reste dans votre navigateur et n'est jamais envoyée ni à nous ni à personne d'autre.",
@@ -184,7 +184,7 @@
       legal_disclaimer_p: "Les prix, forfaits et fonctionnalités sont basés sur des informations publiques au moment de la rédaction et peuvent changer à tout moment — vérifiez toujours le site officiel du fournisseur avant d'acheter. Ce contenu est une information générale, pas un conseil professionnel, juridique ou financier, et nous ne sommes pas responsables des décisions prises sur cette base. Tous les noms de produits et marques appartiennent à leurs propriétaires respectifs.",
       legal_terms_h: "Conditions d'utilisation",
       legal_terms_p: "Vous êtes libre de lire et de partager ce contenu. Nous vous demandons de ne pas le recopier intégralement sur un autre site sans autorisation.",
-      cookie_text: "Nous utilisons quelques éléments strictement fonctionnels dans votre navigateur pour retenir votre choix sur les cookies et votre langue — rien n'est suivi, rien n'est partagé avec qui que ce soit. Détails sur la page Confidentialité & mentions légales.",
+      cookie_text: "Nous utilisons quelques éléments fonctionnels dans votre navigateur pour retenir votre choix sur les cookies et votre langue, et — uniquement si vous acceptez — les cookies de Google Analytics pour mesurer le trafic du site de façon agrégée. Rien n'est vendu, et rien au-delà de statistiques de trafic agrégées n'est partagé avec qui que ce soit. Détails sur la page Confidentialité & mentions légales.",
       cookie_accept: 'Accepter', cookie_decline: 'Refuser',
       footer_desc: "Avis indépendants sur l'hébergement et outils sélectionnés pour petites entreprises et freelances.",
       footer_cat_title: 'Catégories', footer_site_title: 'Site',
@@ -238,7 +238,7 @@
       legal_affiliate_h: 'Werbung und Amazon-Partnerprogramm',
       legal_affiliate_p: 'Diese Seite finanziert sich ausschließlich auf zwei Wegen: über Google-AdSense-Werbeanzeigen und das Amazon-Partnerprogramm (Amazon-Affiliate). Als Teilnehmer des Amazon-Partnerprogramms verdient CamelCompass an qualifizierten Käufen: Wenn du auf dieser Seite einen Amazon-Link anklickst und etwas kaufst, erhalten wir möglicherweise eine kleine Provision, ohne Mehrkosten für dich. Die Anzeigen werden von Google bereitgestellt und können je nach deiner Cookie-Entscheidung personalisiert sein; Details im Abschnitt Datenschutz & Cookies weiter unten. Weder Anzeigen noch Amazon-Links beeinflussen unsere Bewertungen, die auf eigenen Tests und Recherchen beruhen.',
       legal_privacy_h: 'Datenschutz & Cookies',
-      legal_privacy_p: 'Wir haben diese Seite so gebaut, dass sie so wenig Daten von dir wie möglich braucht. Wir verwenden keine Analysetools, keine Werbe- oder Tracking-Cookies und erfassen oder speichern niemals deinen Standort oder deine IP-Adresse. Das Einzige, was diese Seite in deinem Browser speichern kann, ist:',
+      legal_privacy_p: "Wir haben diese Seite so gebaut, dass sie so wenig Daten von dir wie möglich braucht. Wir verwenden Google Analytics, um zusammengefasst zu verstehen, wie Besucher die Seite nutzen — es startet erst, nachdem du den Cookie-Hinweis unten akzeptiert hast, und wenn du ablehnst, wird es gar nicht geladen. Wir erfassen oder speichern deinen genauen Standort oder deine IP-Adresse selbst niemals. Abgesehen von Analytics (nur mit Zustimmung) ist das Einzige, was diese Seite in deinem Browser speichern kann:",
       legal_privacy_li1: 'Deine Cookie-Entscheidung (akzeptieren/ablehnen), damit wir dich nicht bei jedem Besuch erneut fragen.',
       legal_privacy_li2: 'Deine gewählte Sprache, aber nur, wenn du den Hinweis unten akzeptiert hast.',
       legal_privacy_li3: 'Auf der Seite „Für dich empfohlen“ die von dir gewählte Region — sie bleibt in deinem Browser und wird nie an uns oder sonst jemanden gesendet.',
@@ -247,7 +247,7 @@
       legal_disclaimer_p: 'Preise, Tarife und Funktionen basieren auf öffentlich zugänglichen Informationen zum Zeitpunkt der Erstellung und können sich jederzeit ändern — prüfe vor dem Kauf immer die offizielle Website des Anbieters. Dieser Inhalt ist eine allgemeine Information, keine professionelle, rechtliche oder finanzielle Beratung, und wir haften nicht für Entscheidungen, die darauf basieren. Alle Produktnamen und Marken gehören ihren jeweiligen Inhabern.',
       legal_terms_h: 'Nutzungsbedingungen',
       legal_terms_p: 'Du darfst diesen Inhalt gerne lesen und teilen. Wir bitten dich, ihn nicht vollständig ohne Erlaubnis auf einer anderen Seite zu übernehmen.',
-      cookie_text: 'Wir verwenden ein paar kleine, rein funktionale Einträge in deinem Browser, um deine Cookie-Entscheidung und deine Sprache zu merken — nichts wird getrackt, nichts wird geteilt. Details auf der Seite Datenschutz & Rechtliches.',
+      cookie_text: 'Wir verwenden ein paar kleine, funktionale Einträge in deinem Browser, um deine Cookie-Entscheidung und deine Sprache zu merken, sowie — nur wenn du zustimmst — Google-Analytics-Cookies, um den Traffic der Seite zusammengefasst zu messen. Nichts wird verkauft, und außer aggregierten Traffic-Statistiken wird nichts mit irgendjemandem geteilt. Details auf der Seite Datenschutz & Rechtliches.',
       cookie_accept: 'Akzeptieren', cookie_decline: 'Ablehnen',
       footer_desc: 'Unabhängige Hosting-Tests und ausgewählte Tools für kleine Unternehmen und Freiberufler.',
       footer_cat_title: 'Kategorien', footer_site_title: 'Seite',
@@ -301,7 +301,7 @@
       legal_affiliate_h: 'Publicidad y afiliación de Amazon',
       legal_affiliate_p: 'Este sitio se financia únicamente de dos formas: los anuncios de Google AdSense y el programa Amazon Associates (afiliados de Amazon). Como afiliado de Amazon, CamelCompass obtiene ingresos por las compras que califican: si haces clic en un enlace de Amazon en este sitio y compras algo, podríamos recibir una pequeña comisión, sin coste extra para ti. Los anuncios los proporciona Google y pueden personalizarse según tu elección de cookies; más detalles en Privacidad y cookies. Ni los anuncios ni los enlaces de Amazon influyen nunca en nuestras valoraciones, basadas en nuestras propias pruebas e investigación.',
       legal_privacy_h: 'Privacidad y cookies',
-      legal_privacy_p: 'Hemos diseñado este sitio para necesitar la menor cantidad de datos tuyos posible. No usamos herramientas de analítica, no usamos cookies publicitarias ni de rastreo, y nunca recopilamos ni guardamos tu ubicación o tu dirección IP. Lo único que este sitio puede guardar en tu navegador es:',
+      legal_privacy_p: "Hemos diseñado este sitio para necesitar la menor cantidad de datos tuyos posible. Usamos Google Analytics para entender, de forma agregada, cómo la gente usa el sitio — solo se activa después de que aceptes el aviso de cookies de abajo, y si lo rechazas no se carga en absoluto. Nunca recopilamos ni guardamos nosotros mismos tu ubicación precisa o tu dirección IP. Aparte de Analytics (solo con consentimiento), lo único que este sitio puede guardar en tu navegador es:",
       legal_privacy_li1: 'Tu elección sobre las cookies (aceptar/rechazar), para no volver a preguntarte en cada visita.',
       legal_privacy_li2: 'El idioma que elegiste, pero solo si aceptaste el aviso de abajo.',
       legal_privacy_li3: 'En la página "Recomendado para ti", la región que selecciones — se queda en tu navegador y nunca se envía ni a nosotros ni a nadie más.',
@@ -310,7 +310,7 @@
       legal_disclaimer_p: 'Los precios, planes y funciones se basan en información disponible públicamente en el momento de escribir esto y pueden cambiar en cualquier momento — verifica siempre el sitio oficial del proveedor antes de comprar. Este contenido es información general, no asesoramiento profesional, legal o financiero, y no nos hacemos responsables de las decisiones tomadas a partir de él. Todos los nombres de producto y marcas pertenecen a sus respectivos propietarios.',
       legal_terms_h: 'Términos de uso',
       legal_terms_p: 'Eres bienvenido a leer y compartir este contenido. Te pedimos que no lo copies íntegramente en otro sitio sin permiso.',
-      cookie_text: 'Usamos un par de elementos pequeños y estrictamente funcionales en tu navegador para recordar tu elección sobre cookies y tu idioma — no se rastrea nada, no se comparte nada con nadie. Más detalles en la página de Privacidad y legal.',
+      cookie_text: 'Usamos un par de elementos funcionales pequeños en tu navegador para recordar tu elección sobre cookies y tu idioma y, solo si aceptas, cookies de Google Analytics para medir el tráfico del sitio de forma agregada. No se vende nada, y no se comparte con nadie nada más allá de estadísticas de tráfico agregadas. Más detalles en la página de Privacidad y legal.',
       cookie_accept: 'Aceptar', cookie_decline: 'Rechazar',
       footer_desc: 'Análisis independientes de hosting y herramientas seleccionadas para pequeñas empresas y autónomos.',
       footer_cat_title: 'Categorías', footer_site_title: 'Sitio',
@@ -724,20 +724,30 @@
     renderPage();
   }
 
+  function grantAnalyticsConsent() {
+    if (typeof window.gtag === 'function') {
+      window.gtag('consent', 'update', { 'analytics_storage': 'granted' });
+    }
+  }
+
   function initCookieBar() {
     var choice = safeGet('sv_cookie_choice');
     state.consent = choice;
     if (!choice) document.getElementById('cookie-bar').hidden = false;
+    // Returning visitor who already said yes: turn Analytics on right away, no need to ask again.
+    if (choice === 'accepted') grantAnalyticsConsent();
     document.getElementById('cookie-accept').addEventListener('click', function () {
       state.consent = 'accepted';
       safeSet('sv_cookie_choice', 'accepted');
       safeSet('sv_lang', state.lang);
       document.getElementById('cookie-bar').hidden = true;
+      grantAnalyticsConsent();
     });
     document.getElementById('cookie-decline').addEventListener('click', function () {
       state.consent = 'declined';
       safeSet('sv_cookie_choice', 'declined');
       document.getElementById('cookie-bar').hidden = true;
+      // analytics_storage stays 'denied' (the default set in <head>) — Analytics never activates.
     });
   }
 
