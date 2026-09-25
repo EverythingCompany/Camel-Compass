@@ -52,8 +52,8 @@
   .site-header .wrap { display: flex; align-items: center; justify-content: space-between; padding-block: 16px; gap: 20px; flex-wrap: wrap; }
   .logo { font-family: 'Space Grotesk', sans-serif; font-size: 21px; font-weight: 700; color: var(--text); white-space: nowrap; display: inline-flex; align-items: center; gap: 8px; }
   .logo .accent { color: var(--accent); }
-  .logo-mark { height: 30px; width: 30px; object-fit: contain; display: block; }
-  .hero-mascot { width: 110px; height: 110px; object-fit: contain; }
+  .logo-mark { height: 42px; width: 42px; object-fit: contain; display: block; }
+  .hero-mascot { width: 190px; height: 190px; object-fit: contain; filter: drop-shadow(0 6px 18px rgba(36, 84, 199, 0.22)); }
   .nav-links { display: flex; gap: 24px; align-items: center; flex-wrap: wrap; }
   .nav-links a { font-size: 14px; color: var(--text-2); padding-block: 4px; border-bottom: 2px solid transparent; }
   .nav-links a:hover { color: var(--accent); }

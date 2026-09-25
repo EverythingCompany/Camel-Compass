@@ -57,13 +57,13 @@
       legal_disclaimer_h: 'Disclaimer',
       legal_disclaimer_p: 'Prices, plans, and features are based on publicly available information at the time of writing and can change at any time — always check the provider’s official site before buying. This content is general information, not professional, legal, or financial advice, and we are not responsible for decisions made based on it. All product names and trademarks belong to their respective owners.',
       legal_terms_h: 'Terms of use',
-      legal_terms_p: 'You’re welcome to read and share this content. We ask that you don’t copy it wholesale onto another site without permission. This is a project prototype; contact details will be added once the site is live.',
+      legal_terms_p: 'You’re welcome to read and share this content. We ask that you don’t copy it wholesale onto another site without permission.',
       cookie_text: 'We use a couple of small, strictly functional entries in your browser to remember your cookie choice and your language — nothing is tracked, and nothing is shared with anyone. See our Privacy & Legal page for details.',
       cookie_accept: 'Accept', cookie_decline: 'Decline',
       footer_desc: 'Independent hosting reviews and hand-picked tools for small businesses and freelancers.',
       footer_cat_title: 'Categories', footer_site_title: 'Site',
       footer_disclosure: 'Advertising disclosure: this site displays ads and contains Amazon affiliate links. If you buy a product through them, we may earn a commission at no extra cost to you. This never affects our ratings, which are based on our own testing.',
-      footer_copyright: '© 2026 CamelCompass — Project prototype, for review before publishing'
+      footer_copyright: '© 2026 CamelCompass. All rights reserved.'
     },
     it: {
       nav_hosting: 'Hosting', nav_resources: 'Strumenti', nav_recommend: 'Consigliato per te', nav_legal: 'Privacy e note legali',
@@ -120,13 +120,13 @@
       legal_disclaimer_h: 'Disclaimer',
       legal_disclaimer_p: 'Prezzi, piani e funzionalità sono basati su informazioni pubblicamente disponibili al momento della scrittura e possono cambiare in qualsiasi momento — verifica sempre il sito ufficiale del provider prima di acquistare. Questo contenuto è un’informazione generale, non una consulenza professionale, legale o finanziaria, e non siamo responsabili per decisioni prese sulla base di esso. Tutti i nomi di prodotto e i marchi appartengono ai rispettivi proprietari.',
       legal_terms_h: 'Termini di utilizzo',
-      legal_terms_p: 'Sei libero di leggere e condividere questo contenuto. Ti chiediamo di non copiarlo integralmente su un altro sito senza permesso. Questo è un prototipo di progetto; i dati di contatto verranno aggiunti quando il sito sarà online.',
+      legal_terms_p: 'Sei libero di leggere e condividere questo contenuto. Ti chiediamo di non copiarlo integralmente su un altro sito senza permesso.',
       cookie_text: 'Usiamo un paio di piccole voci strettamente funzionali nel tuo browser per ricordare la tua scelta sui cookie e la tua lingua — nulla viene tracciato, nulla viene condiviso con nessuno. Dettagli nella pagina Privacy e note legali.',
       cookie_accept: 'Accetta', cookie_decline: 'Rifiuta',
       footer_desc: 'Recensioni indipendenti sull’hosting e strumenti selezionati per piccole imprese e freelance.',
       footer_cat_title: 'Categorie', footer_site_title: 'Sito',
       footer_disclosure: 'Messaggio pubblicitario: questo sito mostra annunci pubblicitari e contiene link di affiliazione Amazon. Se acquisti un prodotto tramite questi link potremmo ricevere una commissione, senza alcun costo aggiuntivo per te. Questo non influenza le nostre valutazioni, basate sui nostri test.',
-      footer_copyright: '© 2026 CamelCompass — Prototipo di progetto, da rivedere prima della pubblicazione'
+      footer_copyright: '© 2026 CamelCompass. Tutti i diritti riservati.'
     },
     fr: {
       nav_hosting: 'Hébergement', nav_resources: 'Ressources', nav_recommend: 'Recommandé pour vous', nav_legal: 'Confidentialité & mentions légales',
@@ -183,13 +183,13 @@
       legal_disclaimer_h: 'Avertissement',
       legal_disclaimer_p: "Les prix, forfaits et fonctionnalités sont basés sur des informations publiques au moment de la rédaction et peuvent changer à tout moment — vérifiez toujours le site officiel du fournisseur avant d'acheter. Ce contenu est une information générale, pas un conseil professionnel, juridique ou financier, et nous ne sommes pas responsables des décisions prises sur cette base. Tous les noms de produits et marques appartiennent à leurs propriétaires respectifs.",
       legal_terms_h: "Conditions d'utilisation",
-      legal_terms_p: "Vous êtes libre de lire et de partager ce contenu. Nous vous demandons de ne pas le recopier intégralement sur un autre site sans autorisation. Ceci est un prototype de projet ; les coordonnées de contact seront ajoutées une fois le site en ligne.",
+      legal_terms_p: "Vous êtes libre de lire et de partager ce contenu. Nous vous demandons de ne pas le recopier intégralement sur un autre site sans autorisation.",
       cookie_text: "Nous utilisons quelques éléments strictement fonctionnels dans votre navigateur pour retenir votre choix sur les cookies et votre langue — rien n'est suivi, rien n'est partagé avec qui que ce soit. Détails sur la page Confidentialité & mentions légales.",
       cookie_accept: 'Accepter', cookie_decline: 'Refuser',
       footer_desc: "Avis indépendants sur l'hébergement et outils sélectionnés pour petites entreprises et freelances.",
       footer_cat_title: 'Catégories', footer_site_title: 'Site',
       footer_disclosure: "Mention publicitaire : ce site affiche des publicités et contient des liens d'affiliation Amazon. Si vous achetez un produit via ces liens, nous pouvons toucher une commission, sans frais supplémentaires pour vous. Cela n'affecte jamais nos notes, basées sur nos propres tests.",
-      footer_copyright: '© 2026 CamelCompass — Prototype de projet, à valider avant publication'
+      footer_copyright: '© 2026 CamelCompass. Tous droits réservés.'
     },
     de: {
       nav_hosting: 'Hosting', nav_resources: 'Ressourcen', nav_recommend: 'Für dich empfohlen', nav_legal: 'Datenschutz & Rechtliches',
@@ -246,13 +246,13 @@
       legal_disclaimer_h: 'Haftungsausschluss',
       legal_disclaimer_p: 'Preise, Tarife und Funktionen basieren auf öffentlich zugänglichen Informationen zum Zeitpunkt der Erstellung und können sich jederzeit ändern — prüfe vor dem Kauf immer die offizielle Website des Anbieters. Dieser Inhalt ist eine allgemeine Information, keine professionelle, rechtliche oder finanzielle Beratung, und wir haften nicht für Entscheidungen, die darauf basieren. Alle Produktnamen und Marken gehören ihren jeweiligen Inhabern.',
       legal_terms_h: 'Nutzungsbedingungen',
-      legal_terms_p: 'Du darfst diesen Inhalt gerne lesen und teilen. Wir bitten dich, ihn nicht vollständig ohne Erlaubnis auf einer anderen Seite zu übernehmen. Dies ist ein Projektprototyp; Kontaktdaten werden ergänzt, sobald die Seite live ist.',
+      legal_terms_p: 'Du darfst diesen Inhalt gerne lesen und teilen. Wir bitten dich, ihn nicht vollständig ohne Erlaubnis auf einer anderen Seite zu übernehmen.',
       cookie_text: 'Wir verwenden ein paar kleine, rein funktionale Einträge in deinem Browser, um deine Cookie-Entscheidung und deine Sprache zu merken — nichts wird getrackt, nichts wird geteilt. Details auf der Seite Datenschutz & Rechtliches.',
       cookie_accept: 'Akzeptieren', cookie_decline: 'Ablehnen',
       footer_desc: 'Unabhängige Hosting-Tests und ausgewählte Tools für kleine Unternehmen und Freiberufler.',
       footer_cat_title: 'Kategorien', footer_site_title: 'Seite',
       footer_disclosure: 'Werbehinweis: Diese Seite zeigt Werbung und enthält Amazon-Affiliate-Links. Wenn du ein Produkt darüber kaufst, erhalten wir eventuell eine Provision, ohne Mehrkosten für dich. Das beeinflusst nie unsere Bewertungen, die auf eigenen Tests beruhen.',
-      footer_copyright: '© 2026 CamelCompass — Projektprototyp, vor Veröffentlichung zu prüfen'
+      footer_copyright: '© 2026 CamelCompass. Alle Rechte vorbehalten.'
     },
     es: {
       nav_hosting: 'Hosting', nav_resources: 'Recursos', nav_recommend: 'Recomendado para ti', nav_legal: 'Privacidad y legal',
@@ -309,13 +309,13 @@
       legal_disclaimer_h: 'Aviso legal',
       legal_disclaimer_p: 'Los precios, planes y funciones se basan en información disponible públicamente en el momento de escribir esto y pueden cambiar en cualquier momento — verifica siempre el sitio oficial del proveedor antes de comprar. Este contenido es información general, no asesoramiento profesional, legal o financiero, y no nos hacemos responsables de las decisiones tomadas a partir de él. Todos los nombres de producto y marcas pertenecen a sus respectivos propietarios.',
       legal_terms_h: 'Términos de uso',
-      legal_terms_p: 'Eres bienvenido a leer y compartir este contenido. Te pedimos que no lo copies íntegramente en otro sitio sin permiso. Esto es un prototipo de proyecto; los datos de contacto se añadirán cuando el sitio esté en línea.',
+      legal_terms_p: 'Eres bienvenido a leer y compartir este contenido. Te pedimos que no lo copies íntegramente en otro sitio sin permiso.',
       cookie_text: 'Usamos un par de elementos pequeños y estrictamente funcionales en tu navegador para recordar tu elección sobre cookies y tu idioma — no se rastrea nada, no se comparte nada con nadie. Más detalles en la página de Privacidad y legal.',
       cookie_accept: 'Aceptar', cookie_decline: 'Rechazar',
       footer_desc: 'Análisis independientes de hosting y herramientas seleccionadas para pequeñas empresas y autónomos.',
       footer_cat_title: 'Categorías', footer_site_title: 'Sitio',
       footer_disclosure: 'Divulgación publicitaria: este sitio muestra anuncios y contiene enlaces de afiliados de Amazon. Si compras un producto a través de ellos, podríamos recibir una comisión, sin coste extra para ti. Esto nunca afecta a nuestras valoraciones, basadas en nuestras propias pruebas.',
-      footer_copyright: '© 2026 CamelCompass — Prototipo de proyecto, pendiente de revisión antes de publicarse'
+      footer_copyright: '© 2026 CamelCompass. Todos los derechos reservados.'
     }
   };
 
